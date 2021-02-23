@@ -9,7 +9,7 @@ void main() {
           title: Text('Fly Sweet Boy'),
           backgroundColor: Colors.blueGrey[700],
         ),
-        backgroundColor: Colors.blueGrey[400],
+        backgroundColor: Colors.blueGrey[500],
       ),
     ),
   );
